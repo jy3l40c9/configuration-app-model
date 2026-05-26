@@ -1,3 +1,4 @@
+import kcl_plugin.my_pwn
 #import models.k8s.apimachinery.pkg.apis.meta.v1 as metav1
 import k8sResources.deployment as deployment
 import k8sResources.service as service

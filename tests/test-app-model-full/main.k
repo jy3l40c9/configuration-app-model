@@ -1,3 +1,4 @@
+import kcl_plugin.my_pwn
 import models.io.k8s.api.apps.v1 as appsv1
 import models.io.k8s.api.core.v1 as corev1
 import models.io.k8s.api.networking.v1 as networkingv1
